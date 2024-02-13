@@ -7,7 +7,6 @@
 ## 🚀 About Me
 
 I am a 4th-year student at Eskişehir Osmangazi University, Department of Statistics.
-<img align = "right" alt ="Coding" width="400" src="https://i.giphy.com/LaVp0AyqR5bGsC5Cbm.webp">
 My technical skills include SQL, Python, C, MATLAB, R, SPSS, 
 Power BI and 
 Microsoft Office programs. I am constantly 
@@ -26,3 +25,4 @@ Please feel free to contact me to collaborate on the topics you are interested i
 📫 denizstatistics@gmail.com
 
 
+![snake gif](https://github.com/denizzunlu/denizzunlu/blob/output/github-contribution-grid-snake.gif)
