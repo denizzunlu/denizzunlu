@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Deniz Ünlü 👋</h1>
-<h3 align="center">Statistician/Data Scientist📈</h3>
+<h3 align="center">Statistician/Data Scientist</h3>
 
 
 ![abc](https://smartindustry.vn/wp-content/uploads/2020/02/what-is-deep-learning-large.jpg)
