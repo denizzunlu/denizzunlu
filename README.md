@@ -24,5 +24,3 @@ Please feel free to contact me to collaborate on the topics you are interested i
 
 📫 denizstatistics@gmail.com
 
-
-![snake gif](https://github.com/denizzunlu/denizzunlu/blob/output/github-contribution-grid-snake.gif)
