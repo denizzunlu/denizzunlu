@@ -5,8 +5,13 @@
 <h3 align="center">Data Scientist/Statistician</h3>
 
 <div align="center">
-    <p>I am a 4th year student at Eskişehir Osmangazi University, Department of Statistics.</p>
-    <p>My technical skills include SQL, Python, MATLAB, R, SPSS, Power BI, C, and Microsoft Office programs. I am constantly improving myself and producing projects on Machine Learning and Statistical Analysis.</p>
+    <p>I am a 4th year student at Eskişehir Osmangazi University, Department of Statistics.
+
+I am a Data Scientist with:
+-Proficient in Python and its associated libraries, including Pandas, NumPy, scikit-learn, BeautifulSoup, TensorFlow, Keras, etc.
+-Experienced in SQL, R, MATLAB, SPSS, and Power BI.
+
+I am constantly improving myself and working on projects involving Machine Learning, Statistical Analysis.</p>
 </div>
 
 <div align="center">
